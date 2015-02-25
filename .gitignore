@@ -1,3 +1,10 @@
 *.pyc
+<<<<<<< HEAD
 FinalProject/data
 .ipynb_checkpoints
+=======
+.ipynb_checkpoints
+datasets/20news-bydate-*
+data/db/*
+db/*
+>>>>>>> 87c4b4f6a390ebd6cc54f6f415bbe3022c470b37
